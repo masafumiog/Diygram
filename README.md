@@ -4,9 +4,9 @@
 
 | Column    | Type     | Options     |
 | --------  | -------- | ----------- |
-| profile   | string   | null: false |
+| nickname  | string   | null: false |
 | name_sei  | string   | null: false |
-| name_mai  | stirng   | null: false |
+| name_mei  | stirng   | null: false |
 | kana_sei  | string   | null: false |
 | kana_mei  | string   | null: false |
 | email     | string   | null: false |
